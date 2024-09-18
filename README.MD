@@ -33,7 +33,7 @@ This portfolio highlights my professional journey, skills, and significant proje
   - **Finance Management Platform**: Developed and executed automated test suites for a financial management platform. Focused on testing account balance tracking, transaction history, and multi-factor authentication security.
   - **Investment Banking API Testing**: Conducted API automation testing for an investment banking service, validating secure payment gateways, portfolio management, and customer financial data protection.
 
-- **Contact**: Details to get in touch with me for any professional inquiries. [mailto:shashankrushiya](www.shashankrushiya@gmail.com)
+- **Contact**: Details to get in touch with me for any professional inquiries. [send me an email](mailto:www.shashankrushiya@gmail.com)
 
 ## Domains
 
